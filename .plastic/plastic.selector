@@ -1,0 +1,4 @@
+repository "IndieProject@youngmuk@cloud"
+  path "/"
+    br "/main"
+    co "/main"

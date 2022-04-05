@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: b372fe36a2931c841baac4becaac5b77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3750155071095455768
+    second: white bear_0
+  - first:
+      213: -3669720350181084198
+    second: white bear_1
+  - first:
+      213: -2049516844539353929
+    second: white bear_4
+  - first:
+      213: 1861103492701991582
+    second: white bear_5
+  - first:
+      213: -5171005144006728971
+    second: white bear_7
+  - first:
+      213: 6087132662526556670
+    second: white bear_8
+  - first:
+      213: -2980013834201692208
+    second: white bear_9
+  - first:
+      213: -6948935818721851963
+    second: white bear_10
+  - first:
+      213: -2250952209394031219
+    second: white bear_11
+  - first:
+      213: 2850075694867577666
+    second: white bear_12
+  - first:
+      213: 7645954267101313302
+    second: white bear_13
+  - first:
+      213: 7310118038286802
+    second: white bear_14
+  - first:
+      213: -8469780469626867708
+    second: white bear_15
+  - first:
+      213: -338331246024433485
+    second: white bear_16
+  - first:
+      213: 3732726682377121350
+    second: white bear_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: white bear_0
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 784
+        width: 334
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efb9bef4d5c4fbc0800000000000000
+      internalID: -3750155071095455768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 617
+        width: 132
+        height: 116
+      alignment: 9
+      pivot: {x: 0.84980726, y: 0.34546056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33f66d8c8821dc0800000000000000
+      internalID: -3669720350181084198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 522
+        width: 119
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8880215, y: 0.77765167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46d08e947ae83e0800000000000000
+      internalID: -2049516844539353929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_5
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 352
+        width: 117
+        height: 131
+      alignment: 9
+      pivot: {x: 0.74541664, y: 0.8928861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92bdbc14c7f3d910800000000000000
+      internalID: 1861103492701991582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 376
+        width: 88
+        height: 93
+      alignment: 9
+      pivot: {x: 0.36862668, y: 0.8418533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e2cbf736ec38b0800000000000000
+      internalID: -5171005144006728971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_8
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 374
+        width: 79
+        height: 96
+      alignment: 9
+      pivot: {x: 0.557628, y: 0.8920291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9b292d7e6d97450800000000000000
+      internalID: 6087132662526556670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 357
+        width: 97
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6288068, y: 0.8621533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d788a2e43dd4a6d0800000000000000
+      internalID: -2980013834201692208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 192
+        width: 78
+        height: 107
+      alignment: 9
+      pivot: {x: 0.71531874, y: 0.89493454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5881e90bb609f90800000000000000
+      internalID: -6948935818721851963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 232
+        width: 73
+        height: 66
+      alignment: 9
+      pivot: {x: 0.39819252, y: 0.84407324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8520b044e203c0e0800000000000000
+      internalID: -2250952209394031219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 240
+        width: 59
+        height: 70
+      alignment: 9
+      pivot: {x: 0.40232307, y: 0.89710605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b7e8f7eb08d8720800000000000000
+      internalID: 2850075694867577666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_13
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 219
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.26531136, y: 0.8529245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619b47b55e2eb1a60800000000000000
+      internalID: 7645954267101313302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 92
+        width: 87
+        height: 48
+      alignment: 9
+      pivot: {x: 0.8322733, y: 0.78439265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d130fc7388f91000800000000000000
+      internalID: 7310118038286802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_15
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 115
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.56881446, y: 0.83108866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4007956a98b457a80800000000000000
+      internalID: -8469780469626867708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_16
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 118
+        width: 51
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4999988, y: 0.8448373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b06c4836810e4bf0800000000000000
+      internalID: -338331246024433485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white bear_17
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 118
+        width: 74
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5595522, y: 0.83259666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ee5ba042f4dc330800000000000000
+      internalID: 3732726682377121350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

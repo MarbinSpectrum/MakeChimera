@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 8eb818f9396528945b4f8aa0782934cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7769674553052848251
+    second: big foot_0
+  - first:
+      213: 2414391878013665506
+    second: big foot_1
+  - first:
+      213: -7428856135143740890
+    second: big foot_2
+  - first:
+      213: -4930390134230883448
+    second: big foot_4
+  - first:
+      213: -8704306305707551754
+    second: big foot_6
+  - first:
+      213: -3433534926964765001
+    second: big foot_7
+  - first:
+      213: 831270041814992306
+    second: big foot_10
+  - first:
+      213: 2843712474048188899
+    second: big foot_11
+  - first:
+      213: -4845232824488638857
+    second: big foot_13
+  - first:
+      213: 5236255881438258080
+    second: big foot_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: big foot_0
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1940
+        width: 388
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b706b1b27dd63db60800000000000000
+      internalID: 7769674553052848251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big foot_1
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 2150
+        width: 319
+        height: 307
+      alignment: 9
+      pivot: {x: 0.50899494, y: 0.27257228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c79dfe94a18120800000000000000
+      internalID: 2414391878013665506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big foot_2
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1885
+        width: 214
+        height: 321
+      alignment: 9
+      pivot: {x: 0.31675705, y: 0.860528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa64174b667e890800000000000000
+      internalID: -7428856135143740890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big foot_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1611
+        width: 346
+        height: 375
+      alignment: 9
+      pivot: {x: 0.8122756, y: 0.7961299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e3159b4cb39bb0800000000000000
+      internalID: -4930390134230883448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big foot_6
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1405
+        width: 302
+        height: 246
+      alignment: 9
+      pivot: {x: 0.16135108, y: 0.72386056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3db184887143780800000000000000
+      internalID: -8704306305707551754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big foot_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1143
+        width: 297
+        height: 384
+      alignment: 9
+      pivot: {x: 0.8284268, y: 0.8399928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be4e52fc22a950d0800000000000000
+      internalID: -3433534926964765001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big foot_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 625
+        width: 254
+        height: 375
+      alignment: 9
+      pivot: {x: 0.74731326, y: 0.83138555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58ec2e2b3498b00800000000000000
+      internalID: 831270041814992306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big foot_11
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 691
+        width: 376
+        height: 380
+      alignment: 9
+      pivot: {x: 0.7978172, y: 0.20531857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e15df2bd65e67720800000000000000
+      internalID: 2843712474048188899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big foot_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 139
+        width: 356
+        height: 354
+      alignment: 9
+      pivot: {x: 0.826056, y: 0.78546435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776ca42da6642ccb0800000000000000
+      internalID: -4845232824488638857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big foot_14
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 194
+        width: 283
+        height: 397
+      alignment: 9
+      pivot: {x: 0.42761877, y: 0.8646188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a36d263bfaeaa840800000000000000
+      internalID: 5236255881438258080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

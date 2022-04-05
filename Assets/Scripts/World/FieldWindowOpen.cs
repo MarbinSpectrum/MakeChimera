@@ -1,0 +1,16 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class FieldWindowOpen : MonoBehaviour
+{
+    [SerializeField] private string fieldName;
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////
+    /// : 필드 정보창 표시
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////
+    public void OpenWindow()
+    {
+        FieldWindow.MakeFieldWindow(fieldName);
+    }
+}

@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 9976e30ae11a7514085cd28f2d8303f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7036236366666320194
+    second: Dragon man_0
+  - first:
+      213: 6787032207706446553
+    second: Dragon man_1
+  - first:
+      213: 680519303440862105
+    second: Dragon man_2
+  - first:
+      213: 454932149871514577
+    second: Dragon man_3
+  - first:
+      213: 9192239748565286893
+    second: Dragon man_4
+  - first:
+      213: 5578719755759642702
+    second: Dragon man_5
+  - first:
+      213: -4115259434179130223
+    second: Dragon man_7
+  - first:
+      213: 3592286272537252656
+    second: Dragon man_8
+  - first:
+      213: -2606600904312564279
+    second: Dragon man_9
+  - first:
+      213: -3272971800293128505
+    second: Dragon man_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon man_0
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1347
+        width: 593
+        height: 553
+      alignment: 9
+      pivot: {x: 0.9146741, y: 0.5329385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb63b29dd444a5e90800000000000000
+      internalID: -7036236366666320194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon man_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1596
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da5a7b65d1603e50800000000000000
+      internalID: 6787032207706446553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon man_2
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1280
+        width: 693
+        height: 618
+      alignment: 9
+      pivot: {x: 0.07945333, y: 0.6142118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b836073b0b17900800000000000000
+      internalID: 680519303440862105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon man_3
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1505
+        width: 485
+        height: 437
+      alignment: 9
+      pivot: {x: 0.81923074, y: 0.3593239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d31ff5416e305600800000000000000
+      internalID: 454932149871514577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon man_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1424
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defb5774955619f70800000000000000
+      internalID: 9192239748565286893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon man_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 602
+        width: 191
+        height: 493
+      alignment: 9
+      pivot: {x: 0.5357623, y: 0.86947143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48e18f7f089b6d40800000000000000
+      internalID: 5578719755759642702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon man_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 98
+        width: 467
+        height: 892
+      alignment: 9
+      pivot: {x: 0.06120336, y: 0.9084067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c8d232959a3e6c0800000000000000
+      internalID: -4115259434179130223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon man_8
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 406
+        width: 209
+        height: 493
+      alignment: 9
+      pivot: {x: 0.6743059, y: 0.9295105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0335816055d5ad130800000000000000
+      internalID: 3592286272537252656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon man_9
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 386
+        width: 307
+        height: 580
+      alignment: 9
+      pivot: {x: 0.17367385, y: 0.89256316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5dc33b94e73dbd0800000000000000
+      internalID: -2606600904312564279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon man_10
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 499
+        width: 348
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c648a31d711492d0800000000000000
+      internalID: -3272971800293128505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

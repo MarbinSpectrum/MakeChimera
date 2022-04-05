@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: b43bf6d498b24014e98c8800f640d59d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1894901080216268189
+    second: Minotau_0
+  - first:
+      213: -8408429217891241415
+    second: Minotau_1
+  - first:
+      213: 5057849328991571651
+    second: Minotau_2
+  - first:
+      213: 1417099238280906245
+    second: Minotau_3
+  - first:
+      213: 2613218137044027960
+    second: Minotau_4
+  - first:
+      213: 2075158290704848647
+    second: Minotau_5
+  - first:
+      213: -584946601455715353
+    second: Minotau_6
+  - first:
+      213: -7279987613382634299
+    second: Minotau_7
+  - first:
+      213: 407904800882109424
+    second: Minotau_8
+  - first:
+      213: -3236479226636723176
+    second: Minotau_9
+  - first:
+      213: 6799963987447209787
+    second: Minotau_10
+  - first:
+      213: 3041733286745861751
+    second: Minotau_11
+  - first:
+      213: 9040257095798338761
+    second: Minotau_12
+  - first:
+      213: -6003920091229824395
+    second: Minotau_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minotau_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 549
+        width: 286
+        height: 251
+      alignment: 9
+      pivot: {x: 0.71697307, y: 0.26534292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3629435d185f3b5e0800000000000000
+      internalID: -1894901080216268189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotau_1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 526
+        width: 142
+        height: 248
+      alignment: 9
+      pivot: {x: 0.84812045, y: 0.8095932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932b3941d224f4b80800000000000000
+      internalID: -8408429217891241415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotau_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 562
+        width: 142
+        height: 180
+      alignment: 9
+      pivot: {x: 0.20372805, y: 0.7863149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce8df5ca27113640800000000000000
+      internalID: 5057849328991571651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotau_3
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 507
+        width: 97
+        height: 223
+      alignment: 9
+      pivot: {x: 0.5325286, y: 0.88674885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c535cf3c8aa310800000000000000
+      internalID: 1417099238280906245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotau_4
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 511
+        width: 115
+        height: 275
+      alignment: 9
+      pivot: {x: 0.48170963, y: 0.8939351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a0e1bdc04044420800000000000000
+      internalID: 2613218137044027960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotau_5
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 98
+        width: 291
+        height: 607
+      alignment: 9
+      pivot: {x: 0.66625935, y: 0.11533377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075b2288717ccc10800000000000000
+      internalID: 2075158290704848647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotau_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 78
+        width: 276
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb21c6514b29a500800000000000000
+      internalID: 407904800882109424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotau_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 189
+        width: 226
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f5d3508335e5e50800000000000000
+      internalID: 6799963987447209787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotau_11
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 63
+        width: 137
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5076775, y: 0.8697342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ee7f9fe48663a20800000000000000
+      internalID: 3041733286745861751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minotau_12
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 60
+        width: 140
+        height: 299
+      alignment: 9
+      pivot: {x: 0.45492467, y: 0.86934996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4b3496ee1757d70800000000000000
+      internalID: 9040257095798338761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
